@@ -1,3 +1,9 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2020/03/18/20/01/forest-4945407__340.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .Tekst-1 {
     color:red
 }
